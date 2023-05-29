@@ -1,0 +1,178 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.btn_section{
+	width:1200px;
+	display:flex;
+	gap:40px;
+	border:1px solid black;
+	margin-top:50px;
+	margin-left:50px;
+	padding:40px;
+	justify-content:space-around;
+	align-items:center;
+	
+	
+	
+}
+.btn_primary{
+	color:white;
+	background-color:#0a6ffc;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+	text-decoration:none;
+	transition:0.8s;
+	font-weight:bold;
+	cursor:default;
+}
+
+.btn_primary:hover{
+	background-color:#2980b9;
+
+}
+
+.btn_secondary{
+	color:white;
+	background-color:#6f737b;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+	text-decoration:none;
+	transition:0.8s;
+	font-weight:bold;
+		cursor:default;
+}
+
+.btn_secondary:hover{
+	background-color:#535c68;
+
+}
+
+.btn_sucess{
+	color:white;
+	background-color:#1f8352;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+	text-decoration:none;
+	transition:0.8s;
+	font-weight:bold;
+		cursor:default;
+}
+
+.btn_sucess:hover{
+	background-color:#535c68;
+
+}
+
+
+.btn_Danger{
+	color:white;
+	background-color:#dc3a47;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+	text-decoration:none;
+		transition:0.8s;
+	font-weight:bold;
+		cursor:default;
+}
+
+.btn_Danger:hover{
+	background-color:#eb4d4b;
+
+}
+
+
+.btn_Warning{
+	color:black;
+	background-color:#febf09;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+	text-decoration:none;
+	transition:0.8s;
+	font-weight:bold;
+		cursor:default;
+}
+
+.btn_Warning:hover{
+	background-color:#f6e58d;
+
+}
+
+
+.btn_Info{
+	color:black;
+	background-color:#0bccee;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+	text-decoration:none;
+	transition:0.8s;
+	font-weight:bold;
+		cursor:default;
+}
+
+.btn_Info:hover{
+	background-color:#686de0;
+
+}
+
+
+.btn_Light{
+	color:black;
+	background-color:#f9f9fb;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+	text-decoration:none;
+	transition:0.8s;
+	font-weight:bold;
+		cursor:default;
+}
+
+.btn_Light:hover{
+	background-color:#c1c1c6;
+
+}
+
+
+.btn_Dark{
+	color:white;
+	background-color:#22252a;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+	text-decoration:none;
+	transition:0.8s;
+	font-weight:bold;
+		cursor:default;
+}
+
+.btn_Dark:hover{
+	background-color:#535c68;
+
+}
+.link{
+	
+	background-color:transparent;
+	color:blue;
+	border:none;
+	padding:none;
+	border-radius:none;
+	text-decoration:underline;
+	transition:0.8s;
+	font-weight:bold;
+	cursor:pointer;
+}
+
+.link:hover{
+	color:#b1b1bb;
+}
+
+	
+
